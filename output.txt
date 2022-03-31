@@ -1,0 +1,1 @@
+{"errorMessage":"fork/exec /var/task/lambda-go: no such file or directory","errorType":"PathError"}
